@@ -1,4 +1,4 @@
-# 
+# MEV-optimized new token sniper bot | stop-loss + bundle-transactions is the best new token sniper bot, featuring stop-loss and bundle-transactions. Fast, smart, and optimized for
 
 
 
